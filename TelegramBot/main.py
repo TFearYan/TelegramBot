@@ -1,7 +1,7 @@
 import telebot
 from telebot import types
 
-bot = telebot.TeleBot('5433971032:AAF_tv31AoNj89KT8ZG8Eq_-dVbnaijS3v0')
+bot = telebot.TeleBot('BOT_Token')
 description = ''
 price = 0
 user_description = False
